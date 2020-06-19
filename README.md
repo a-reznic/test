@@ -70,5 +70,5 @@ Output Sample:
 --------------------------------------------------------------
 Released in JAVA
 
-ThreadPool with selected channel for messages with some ID
+ThreadPool with selected channel for messages with same ID
 
